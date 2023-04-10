@@ -3,7 +3,6 @@ import 'package:provider/provider.dart';
 import 'package:provider_example/provider/counter_provider.dart';
 
 class HomeScreen extends StatelessWidget {
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
